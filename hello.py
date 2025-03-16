@@ -43,4 +43,4 @@ def Delete(sno):
     return redirect('/')  
 
 if __name__ == "__main__":  
-    hello.run(debug=False)
+    hello.run(debug=True)
